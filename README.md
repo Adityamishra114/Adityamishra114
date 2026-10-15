@@ -65,58 +65,6 @@ Created a React inventory application with user tracking, dynamic dashboards, re
 **Sunbury Rentals** — Car-rental booking platform with authentication and an admin dashboard.<br />
 **The Capital HUB** — Digital portal supporting the Indian startup ecosystem.
 
-## Experience
-
-**Full Stack Developer · Atiya Herbs Pvt Ltd**<br />
-*July 2026 – Present · New Delhi*
-
-- Developing an in-house QMS and complaint-management CRM with investigations, CAPA, approvals, and resolution workflows.
-- Implementing RBAC, JWT authentication, REST APIs, dashboards, notifications, and audit trails.
-
-**Full Stack Developer · IFDA Institute**<br />
-*June 2025 – June 2026 · New Delhi*
-
-- Architected and deployed an LMS for 100+ users with HLS streaming, role management, authentication, and payments.
-- Built CRM, real-time chat, analytics dashboards, and React / React Native applications.
-- Reduced deployment time by **60%** with Docker and CI/CD, and API response time by **30%** through optimization.
-
-**MERN Stack Developer · Techaronic IT Solutions Pvt Ltd**<br />
-*June 2024 – June 2025 · Remote*
-
-- Built a hotel-booking management system with real-time availability, reservations, payments, and an admin dashboard.
-- Improved MongoDB query performance by **40%** through schema and index optimization.
-
-**Frontend Developer**<br />
-*October 2022 – May 2024 · Ahmedabad*
-
-- Developed a React inventory-management application with dashboards, reporting, and REST API integration.
-- Reduced page-load time by **35%** through frontend optimization.
-
-## GitHub Contributions
-
-<div align="center">
-
-### 3D Contribution Graph Animation
-
-<!-- Generated daily by .github/workflows/profile-graphics.yml -->
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D GitHub contribution graph" width="85%" />
-
-### Contribution Snake
-
-<!-- Generated daily by .github/workflows/profile-graphics.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
-  <img alt="Animated snake following my GitHub contribution graph" src="./dist/github-snake.svg" width="85%" />
-</picture>
-
-</div>
-
-## Education & Certification
-
-- **Bachelor of Technology (Mechanical Engineering)** · BPUT, Bhubaneswar
-- **Full-Stack (MERN) Development Bootcamp** · KnowledgeHut UpGrad
-
 ---
 
 <div align="center">
